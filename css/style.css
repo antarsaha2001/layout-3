@@ -1,0 +1,102 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+header{
+    background-color: blue;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+}
+.main{
+    display: flex;
+}
+.fast{
+    background-color: blueviolet;
+    width: 50%;
+    height: 500px;
+}
+.last{
+    background-color: brown;
+    width: 50%;
+    height: 500px;
+}
+.aside1{
+    background-color: chartreuse;
+    height: 40%;
+}
+.aside2{
+    background-color: rgb(91, 183, 0);
+    height: 30%;
+}
+.aside3{
+    background-color: rgb(56, 107, 6);
+    height: 20%;
+}
+.aside4{
+    background-color: rgb(33, 63, 3);
+    height: 10%;
+}
+.last-up{
+    background-color: rgb(255, 0, 153);
+    height: 20%;
+}
+.last-daun{
+    background-color: rgb(0, 4, 255);
+    height:80%;
+    display: flex;
+}
+.daun1{
+    background-color: rgb(255, 0, 0);
+    height: 100%;
+    width: 50%;
+}
+.daun2{
+    background-color: rgb(255, 242, 0);
+    height: 100%;
+    width: 50%;
+}
+.daun-up{
+    background-color: rgb(0, 251, 251);
+    height: 20%;
+    width: 100%;
+}
+.daun-dro{
+    background-color: rgb(125, 56, 254);
+    height: 80%;
+    width: 100%;
+    display: flex;
+}
+
+.dro-la{
+    background-color: rgb(36, 1, 103);
+    height: 100%;
+    width: 50%;
+}
+.dro-ra{
+    background-color: rgb(255, 95, 202);
+    height: 100%;
+    width: 50%;
+}
+.ra-up{
+    background-color: rgb(255, 255, 255);
+    height: 30%;
+    width: 100%;
+}
+.ra-ca{
+    background-color: rgb(130, 99, 99);
+    height: 30%;
+    width: 100%;
+}
+.ra-da{
+    background-color: rgb(159, 29, 87);
+    height: 40%;
+    width: 100%;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    color: aliceblue;
+}
